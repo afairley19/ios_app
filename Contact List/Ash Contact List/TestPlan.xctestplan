@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "A5060F4B-AF80-45DA-850F-D7413EB72767",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}

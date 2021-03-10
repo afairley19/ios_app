@@ -1,0 +1,32 @@
+{
+  "configurations" : [
+    {
+      "id" : "025154E3-6129-42D9-9636-A1505BF8596F",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Ash Contact List.xcodeproj",
+        "identifier" : "0CBD17602559C64F00DD6199",
+        "name" : "Ash Contact ListTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "target" : {
+        "containerPath" : "container:Ash Contact List.xcodeproj",
+        "identifier" : "0CBD176E2559C66400DD6199",
+        "name" : "Ash Contact ListUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

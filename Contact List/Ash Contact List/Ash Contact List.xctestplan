@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "D2B13D53-E234-4CAE-B6B7-BE92AC72BEAB",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Ash Contact List.xcodeproj",
+      "identifier" : "0C8EA2A8252670A30075BF86",
+      "name" : "Ash Contact List"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
